@@ -12,7 +12,7 @@ ________________________________________
 
 * Within the Bamazon Customer portal, the user will first be shown a table of all available products for sale.
 
-<img src="./pictures/customeropen.jpg" />
+<img src="assets/images/customeropen.jpg">
 
 
 
@@ -22,7 +22,7 @@ ________________________________________
 
 * Once the quantity is entered, the program will calculate the total expense amount due for entered purchase.
 
-<img src="./pictures/customerpurchase.jpg" /"
+<img src="assets/images/customerpurchase.jpg">"
 
 * The program will the automatically remove the quantity from the available inventory.
 
@@ -38,32 +38,32 @@ ________________________________________
         + Add New Product
 
 
-<img src="./pictures/manageropen.jpg" />
+<img src="assets/images/manageropen.jpg">
 
 <br>
 
 * If the user selects _View Products for Sale_ a table of all available merchandise for sale will be displayed.  The table will include current price point, department and current inventory level for each product.
 
-<img src="./pictures/managerproductsforsale.jpg" />
+<img src="assets/images/managerproductsforsale.jpg">
 
 <br>
 
 * If the user selects _View Low Inventory_ a table will generate showing all products in the inventory with a quantity level at 50 units or less.
 
-<img src="./pictures/managerlowinventory.jpg" />
+<img src="assets/images/managerlowinventory.jpg">
 
 <br>
 
 
 * If the user selects _Add to Inventory_ the user will be prompted to enter the item ID, from the inventory table, and the quantity to be added.  Once both entries are submitted the products table will update with the new inventory.
 
-<img src="./pictures/manageraddinventory.jpg" />
+<img src="assets/images/manageraddinventory.jpg">
 
 <br>
 
 * If the user selects _Add New Product_ the user will prompted to enter the name, department, price point, and initial quantity of the product being added.  Once all entries are submitted, the product will be added to the table.
 
-<img src="./pictures/managernewproduct.jpg" />
+<img src="assets/images/managernewproduct.jpg">
 
 <br>
 
