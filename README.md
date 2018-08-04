@@ -24,7 +24,7 @@ ________________________________________
 
 * Once the quantity is entered, the program will calculate the total expense amount due for entered purchase.
 
-![Customer: Purchase](/images/customerpurchase.jpg)
+![Customer: Purchase](/images/customerpurchase.JPG)
 
 
 * The program will the automatically remove the quantity from the available inventory.
@@ -41,20 +41,20 @@ ________________________________________
         + Add New Product
 
 
-![Manager: Open](/images/manageropen.jpg)
+![Manager: Open](/images/manageropen.JPG)
 
 <br>
 
 * If the user selects _View Products for Sale_ a table of all available merchandise for sale will be displayed.  The table will include current price point, department and current inventory level for each product.
 
-![Manager: Products For Sale](/images/managerproductsforsale.jpg)
+![Manager: Products For Sale](/images/managerproductsforsale.JPG)
 
 
 <br>
 
 * If the user selects _View Low Inventory_ a table will generate showing all products in the inventory with a quantity level at 50 units or less.
 
-![Manager: Low Inventory](/images/managerproductsforsale.jpg)
+![Manager: Low Inventory](/images/managerproductsforsale.JPG)
 
 
 <br>
@@ -62,14 +62,14 @@ ________________________________________
 
 * If the user selects _Add to Inventory_ the user will be prompted to enter the item ID, from the inventory table, and the quantity to be added.  Once both entries are submitted the products table will update with the new inventory.
 
-![Manager: Add Inventory](/images/manageraddinventory.jpg)
+![Manager: Add Inventory](/images/manageraddinventory.JPG)
 
 
 <br>
 
 * If the user selects _Add New Product_ the user will prompted to enter the name, department, price point, and initial quantity of the product being added.  Once all entries are submitted, the product will be added to the table.
 
-![Manager: Add New Product](/images/managernewproduct.jpg)
+![Manager: Add New Product](/images/managernewproduct.JPG)
 
 
 <br>
