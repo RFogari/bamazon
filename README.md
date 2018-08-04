@@ -12,7 +12,9 @@ ________________________________________
 
 * Within the Bamazon Customer portal, the user will first be shown a table of all available products for sale.
 
-<img src="assets/images/customeropen.jpg">
+![Customer Open](/images/customeropen1.png)
+
+
 
 
 
